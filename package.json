@@ -1,0 +1,18 @@
+{
+  "name": "e-comm-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start:dev": "nodemon index"
+  },
+  "author": "divyansh",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-server": "^3.13.0",
+    "graphql": "^16.8.1",
+    "nodemon": "^3.1.0",
+    "uuid": "^9.0.1"
+  }
+}
